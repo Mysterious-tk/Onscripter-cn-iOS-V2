@@ -1,0 +1,27 @@
+HetimaUnZip.framework 1.0.1
+
+zipファイルの中身を取り出せるframeworkです。
+使い方はヘッダファイルや、別途公開しているHetimaZipBrowserを参考にしてください。
+
+ライセンスは修正BSDライセンスです。
+
+unzip 1.01eを介し、zlibを利用してデータを取り出しています。
+内部パスの文字コード判別にはKEditの判別ルーチンを利用させていただいています。
+
+
+
+更新履歴
+1.0.1 - 2005-03-29
+文字コード自動判別の向上（アーカイブを作成した環境の情報も見るようにした）
+HetimaUnZipItem メソッド追加
+- (NSData*)headDataForSize:(unsigned)size;
+- (void*)headBytesProposedSize:(unsigned)pSize readSize:(unsigned*)rSize;
+
+
+1.0 - 2005-03-27
+最初のバージョン
+
+
+ヘチマコンピュータ
+http://hetima.com
+hetima@hetima.com

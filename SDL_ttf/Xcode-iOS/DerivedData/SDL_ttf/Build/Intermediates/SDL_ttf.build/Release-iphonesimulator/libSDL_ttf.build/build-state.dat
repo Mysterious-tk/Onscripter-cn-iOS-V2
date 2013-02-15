@@ -1,0 +1,120 @@
+TlibSDL_ttf
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/alloca.h
+c0000000050F4CB6F0000000000000588
+t1358220143
+s1416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/math.h
+c0000000050F4CB7E000000000000697B
+t1358220158
+s27003
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/stdio.h
+c0000000050F4CB830000000000004523
+t1358220163
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/stdlib.h
+c0000000050F4CB830000000000003089
+t1358220163
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/string.h
+c0000000050F4CB830000000000001A3A
+t1358220163
+s6714
+
+N/Users/yc/Desktop/ons/onscripter_ios/Release-iphoneos/include/freetype2/freetype/fterrors.h
+c00000000511494FA00000000000024F0
+t1360303354
+s9456
+
+N/Users/yc/Desktop/ons/onscripter_ios/Release-iphoneos/include/ft2build.h
+c00000000511494FA0000000000000F32
+t1360303354
+s3890
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL/include/SDL.h
+c000000004F1C26E500000000000013FB
+t1327245029
+s5115
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL/include/SDL_endian.h
+c000000004F1C26E50000000000001898
+t1327245029
+s6296
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/SDL_ttf.h
+c000000004F1C286E00000000000029D7
+t1327245422
+s10711
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+c000000004F1C28A3000000000000D491
+t1327245475
+s54417
+i<math.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<alloca.h>
+i<ft2build.h>
+i"SDL.h"
+i"SDL_endian.h"
+i"SDL_ttf.h"
+i<freetype/fterrors.h>
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.LinkFileList
+c000000005114B5D900000000000000B4
+t1360311769
+s180
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.o
+t2
+s0
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a
+t2
+s0
+
+CBuild AST from /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies66150a59edc4b641^52460c59edc4b641^---0#1#0#--18"Check dependencies36"2021F23A-2DFE-4FF7-81BE-A5F1471DC856-
+
+CCompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s382004569.050132
+e382004569.882924
+r1
+xCompileC
+xDerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.o
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c382c0d59edc4b641^1006e259edc4b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c0000000000000000^3135"CompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.o ../SDL_ttf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -fvisibility=hidden -Wno-sign-conversion -mios-simulator-version-min=4.3 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/SDL_ttf.hmap -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../Release-iphoneos/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../Release-iphoneos/include/freetype2 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../SDL/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../libfreetype/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/DerivedSources/i386 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/DerivedSources -F/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator -MMD -MT dependencies -MF /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.d --serialize-diagnostics /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.dia -c /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.o36"06407D2B-93DE-470B-928D-353CAF1AFA21-
+
+CLibtool /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a normal i386
+s382004569.889800
+e382004570.060260
+r1
+xLibtool
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Libtool DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a normal i3861ff5e359edc4b641^bb7c0f5aedc4b641^---0#0#0#--1089"Libtool DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a normal i386    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator -filelist /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphonesimulator/libSDL_ttf.build/Objects-normal/i386/SDL_ttf.LinkFileList -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphonesimulator/libSDL_ttf.a36"C4CC26A4-2C19-41DB-8A65-C13DC0E6E577-
+

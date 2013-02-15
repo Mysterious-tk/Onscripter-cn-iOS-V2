@@ -1,0 +1,173 @@
+TlibSDL_ttf
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a normal armv7
+cLibtool /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a normal armv7s
+cCreateUniversalBinary /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a normal "armv7 armv7s"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051148CDA0000000000000132
+t1360301274
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/alloca.h
+c0000000050F4C9C30000000000000588
+t1358219715
+s1416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/math.h
+c0000000050F4C9D0000000000000697B
+t1358219728
+s27003
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h
+c0000000050F4C9D10000000000004523
+t1358219729
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdlib.h
+c0000000050F4C9D10000000000003089
+t1358219729
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/string.h
+c0000000050F4C9D10000000000001A3A
+t1358219729
+s6714
+
+N/Users/yc/Desktop/ons/onscripter_ios/Release-iphoneos/include/freetype2/freetype/fterrors.h
+c00000000511494FA00000000000024F0
+t1360303354
+s9456
+
+N/Users/yc/Desktop/ons/onscripter_ios/Release-iphoneos/include/ft2build.h
+c00000000511494FA0000000000000F32
+t1360303354
+s3890
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL/include/SDL.h
+c000000004F1C26E500000000000013FB
+t1327245029
+s5115
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL/include/SDL_endian.h
+c000000004F1C26E50000000000001898
+t1327245029
+s6296
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/SDL_ttf.h
+c000000004F1C286E00000000000029D7
+t1327245422
+s10711
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+c000000004F1C28A3000000000000D491
+t1327245475
+s54417
+i<math.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<alloca.h>
+i<ft2build.h>
+i"SDL.h"
+i"SDL_endian.h"
+i"SDL_ttf.h"
+i<freetype/fterrors.h>
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.LinkFileList
+c000000005114B5DE00000000000000AE
+t1360311774
+s174
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.o
+t2
+s0
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a
+t2
+s0
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.LinkFileList
+c000000005114B5DE00000000000000AF
+t1360311774
+s175
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.o
+t2
+s0
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a
+t2
+s0
+
+N/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a
+t2
+s0
+
+CBuild AST from /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa019805eedc4b641^f1bcb05eedc4b641^---0#1#0#--18"Check dependencies36"684801E5-BDE2-4FB4-A61B-754028218C2E-
+
+CCompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s382004574.693842
+e382004575.709360
+r1
+xCompileC
+xDerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.o
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c8dedb15eedc4b641^d5b2b55fedc4b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c0000000000000000^3027"CompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.o ../SDL_ttf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wdeprecated-declarations -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/SDL_ttf.hmap -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../Release-iphoneos/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../Release-iphoneos/include/freetype2 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../SDL/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../libfreetype/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/DerivedSources/armv7 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/DerivedSources -F/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos -MMD -MT dependencies -MF /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.d --serialize-diagnostics /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.dia -c /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.o36"EFEA4B4D-89DE-4620-8058-442594506486-
+
+CCompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s382004574.694633
+e382004575.778304
+r1
+xCompileC
+xDerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.o
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c9412b25eedc4b641^e23dc75fedc4b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c0000000000000000^3034"CompileC DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.o ../SDL_ttf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wdeprecated-declarations -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/SDL_ttf.hmap -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../Release-iphoneos/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../Release-iphoneos/include/freetype2 -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../SDL/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../../libfreetype/include -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/DerivedSources/armv7s -I/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/DerivedSources -F/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos -MMD -MT dependencies -MF /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.d --serialize-diagnostics /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.dia -c /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/../SDL_ttf.c -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.o36"5953ED4E-E645-4ED6-9714-69FC0D2C200E-
+
+CCreateUniversalBinary /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a normal "armv7 armv7s"
+s382004575.895274
+e382004575.990916
+r1
+xCreateUniversalBinary
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Create universal binary /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.aa660e55fedc4b641^e2abfd5fedc4b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a000000000080d041^857"CreateUniversalBinary DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a normal "armv7 armv7s"    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos/libSDL_ttf.a36"728C8912-BA31-4959-B82D-BD2C3D25FFD2-
+
+CLibtool /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a normal armv7
+s382004575.716994
+e382004575.834341
+r1
+xLibtool
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Libtool DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a normal armv7efc9b75fedc4b641^2096d55fedc4b641^---0#0#0#--1157"Libtool DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a normal armv7    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos -filelist /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/SDL_ttf.LinkFileList -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7/libSDL_ttf.a36"A211A9CB-54FD-4A2F-A208-E6FAE83BD6C3-
+
+CLibtool /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a normal armv7s
+s382004575.785242
+e382004575.888405
+r1
+xLibtool
+x/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Libtool DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a normal armv7s1e32c95fedc4b641^8f6fe35fedc4b641^---0#0#0#--1162"Libtool DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a normal armv7s    cd /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Products/Release-iphoneos -filelist /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/SDL_ttf.LinkFileList -o /Users/yc/Desktop/ons/onscripter_ios/SDL_ttf/Xcode-iOS/DerivedData/SDL_ttf/Build/Intermediates/SDL_ttf.build/Release-iphoneos/libSDL_ttf.build/Objects-normal/armv7s/libSDL_ttf.a36"D5A85269-7EEB-4E2F-95F8-80821CF3A395-
+

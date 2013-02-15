@@ -1,0 +1,35 @@
+all: \
+	$(INSTALL_PATH)/lib/libfreetype.a \
+	$(INSTALL_PATH)/lib/libmad.a \
+	$(INSTALL_PATH)/lib/libvorbisidec.a \
+	$(INSTALL_PATH)/lib/libjpeg.a 
+
+$(INSTALL_PATH)/lib/libfreetype.a:
+	cd freetype-2.4.8; ./configure CC=$(SDK_CC) CFLAGS="-isysroot $(SDK_PATH)" --host=$(HOST) --disable-shared --prefix=$(INSTALL_PATH)
+	make -C freetype-2.4.8
+	make -C freetype-2.4.8 install
+
+$(INSTALL_PATH)/lib/libmad.a:
+	cd libmad-0.15.1b; sh ./configure CC=$(SDK_CC) CFLAGS="-isysroot $(SDK_PATH)" SDL_CFLAGS="-isysroot $(SDK_PATH)" --host=$(HOST) --disable-shared --prefix=$(INSTALL_PATH) --disable-aso;
+	make -C libmad-0.15.1b
+	make -C libmad-0.15.1b install
+
+$(INSTALL_PATH)/lib/libvorbisidec.a:
+	cd libvorbisidec-1.0.2+svn16259; ./autogen.sh CC=$(SDK_CC) CFLAGS="-isysroot $(SDK_PATH)" SDL_CFLAGS="-isysroot $(SDK_PATH)" --host=$(HOST) --disable-shared --prefix=$(INSTALL_PATH)
+	make -C libvorbisidec-1.0.2+svn16259
+	make -C libvorbisidec-1.0.2+svn16259 install
+
+$(INSTALL_PATH)/lib/libjpeg.a:
+	cd jpeg-9; ./configure CC=$(SDK_CC) CFLAGS="-isysroot $(SDK_PATH)" --host=$(HOST) --disable-shared --prefix=$(INSTALL_PATH)
+	make -C jpeg-9
+	make -C jpeg-9 install
+
+clean:
+	make -C freetype-2.4.8 clean
+	make -C libmad-0.15.1b clean
+	make -C libvorbisidec-1.0.2+svn16259 clean
+	make -C jpeg-9 clean
+	rm $(INSTALL_PATH)/lib/libfreetype.a
+	rm $(INSTALL_PATH)/lib/libmad.a
+	rm $(INSTALL_PATH)/lib/libvorbisidec.a
+	rm $(INSTALL_PATH)/lib/libjpeg.a
